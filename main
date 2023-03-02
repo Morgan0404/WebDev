@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <Title>Home</Title>
+    <link rel="stylesheet" type="text/css" href="C:\Users\morga\Favorites\WebDevelopmentCW\Style.css">
+    <div class = "topnav">
+        <a class="active" href="C:\Users\morga\Favorites\WebDevelopmentCW\main.html">Home</a>
+        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\pairs.html">Memory</a>
+        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\register.html">Registration</a>
+        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\leaderboard.html">Leaderboard</a>
+    </div>
+    <styel>
+        
+    </styel>
+
+</header>
+
+<body>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
