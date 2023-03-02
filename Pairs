@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <Title>Memory</Title>
+    <div class = "topnav">
+        <a class="active" href="C:\Users\morga\Favorites\WebDevelopmentCW\main.html">Home</a>
+        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\pairs.html">Pairs</a>
+        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\register.html">Registration</a>
+        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\leaderboard.html">Leaderboard</a>
+    </div>
+  
+
+</header>
+
+<body>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+</html>
