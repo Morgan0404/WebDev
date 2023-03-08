@@ -2,21 +2,23 @@
 <html>
 <header>
     <Title>Home</Title>
-    <link rel="stylesheet" type="text/css" href="C:\Users\morga\Favorites\WebDevelopmentCW\Style.css">
-    <div class = "topnav">
-        <a class="active" href="C:\Users\morga\Favorites\WebDevelopmentCW\main.html">Home</a>
-        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\pairs.html">Memory</a>
-        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\register.html">Registration</a>
-        <a href="C:\Users\morga\Favorites\WebDevelopmentCW\leaderboard.html">Leaderboard</a>
-    </div>
-    <styel>
+    <script src="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\code.js"></script>
+    <link rel="stylesheet" type="text/css" href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\StyleSheet.css">
+    
+    
         
-    </styel>
+    <style></style>
 
 </header>
 
 <body>
 
+    <div class = "topnav">        
+        <a class="active" href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\MAIN.html">Home</a>
+        <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\PAIRS.html">Memory</a>
+        <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\REGISTRATION.html" id = "special-tab">Registration</a>
+        <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\LEADERBOARD.html">Leaderboard</a>
+    </div>
 
 
 
