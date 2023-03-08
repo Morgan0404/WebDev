@@ -15,8 +15,9 @@
 
     <div class = "topnav">        
         <a class="active" href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\MAIN.html">Home</a>
-        <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\PAIRS.html">Memory</a>
         <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\REGISTRATION.html" id = "special-tab">Registration</a>
+    <div class = "topnav topnav-right">
+        <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\PAIRS.html">Memory</a>
         <a href="C:\Users\morga\OneDrive - Barton Peveril College\Desktop\AAwebDev\LEADERBOARD.html">Leaderboard</a>
     </div>
 
